@@ -18,4 +18,4 @@ This repository is a collection of Python projects, scripts, and experiments tha
 You are free to explore, clone, and learn from the projects here. Contributions and suggestions are always welcome!  
 
 ```sh
-git clone https://github.com/yourusername/python-learning-journey.git
+git clone https://github.com/TheBinaryGhost/python-learning-journey.git
