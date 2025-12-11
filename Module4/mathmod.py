@@ -27,4 +27,7 @@ import math
 print("The value is:", math.floor(4.7))  # Prints the largest integer less than or equal to 4.7
 print("The value is:", math.floor(-5.3))  # Prints the largest integer less than or equal to -5.3
 
-
+#Square root function using math module
+import math
+print("The square root is:", math.sqrt(16))  # Prints the square root of 16
+print("The square root is:", math.sqrt(25))  # Prints the square root of 25
