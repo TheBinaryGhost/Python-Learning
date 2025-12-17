@@ -64,4 +64,3 @@ print("Shuffled Captcha List:", captcha_list)
 
 random.uniform(3,4)
 print("Random float between 3 and 4:", random.uniform(3,4))
-
