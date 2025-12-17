@@ -1,0 +1,3 @@
+Ethical hacking is an art of hacking. In ethical hacking, we hack the system
+with the permission of the owner to find vulnerabilities and fix them
+before malicious hackers can exploit them.Ethical hacking is a very interesting field.
